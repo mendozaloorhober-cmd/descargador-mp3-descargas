@@ -77,7 +77,7 @@
 2. Realiza el pago y te enviamos tu **código de activación**.
 3. Pégalo en la app y pulsa **Activar**. ¡Listo para siempre!
 
-📱 **WhatsApp:** [+593 96 275 3250](https://wa.me/593962753250?text=Hola%2C%20quiero%20comprar%20la%20licencia%20de%20Descargador%20MP3)
+📱 **WhatsApp:** [+593 96 275 3250](https://wa.me/593962753250?text=Hola%2C%20quiero%20comprar%20la%20licencia%20de%20Descargador%20MP3)<br>
 ✉️ **Correo:** [mendozaloorhober@gmail.com](mailto:mendozaloorhober@gmail.com)
 
 <br clear="right">
