@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/github/v/release/mendozaloorhober-cmd/descargador-mp3-descargas?style=flat-square&label=versi%C3%B3n&color=006F80" alt="versión">
 </p>
 
-<p align="center"><i>Incluye 30 días de prueba gratis con todas las funciones.</i></p>
+<p align="center"><i>Incluye 7 días de prueba gratis.</i></p>
 
 ---
 
@@ -48,6 +48,10 @@
 - 📁 **Tú eliges la carpeta** donde se guarda tu música, y la app la recuerda.
 - 🔄 **Se actualiza sola** para seguir funcionando cuando cambian los sitios.
 - 📦 **No necesitas instalar nada más:** todo viene incluido. Descargas, abres y listo.
+
+### ⭐ Versión completa
+- 🎬 **Descarga videos en MP4:** Básica (480p), HD (720p), Full HD (1080p) o la máxima calidad (hasta 4K).
+- 🎧 **Reproductor de música integrado:** tu biblioteca con portada, búsqueda y orden; aleatorio, repetir, volumen y barra para adelantar.
 
 ## 🎯 Cómo se usa
 

@@ -1,6 +1,6 @@
 ```text
 AVISO LEGAL Y POLÍTICA DE PRIVACIDAD
-Descargador MP3 · versión 1.0
+Descargador MP3 · versión 1.1.0
 
 
 1. DATOS DE CONTACTO
@@ -13,7 +13,7 @@ Teléfono / WhatsApp: +593 96 275 3250
 
 Descargador MP3 es un programa de escritorio para convertir y guardar audio en formato MP3 en el equipo del usuario.
 
-- Se ofrece una prueba gratuita de 30 días. Después, el uso requiere una licencia de pago único ($10), válida de por vida para el equipo en el que se activa.
+- Se ofrece una prueba gratuita de 7 días. Después, el uso requiere una licencia de pago único ($10), válida de por vida para el equipo en el que se activa.
 - Cada código de activación es personal e intransferible y solo funciona en el equipo para el que fue generado.
 - El usuario se compromete a usar el programa únicamente con contenido propio, de dominio público o del que tenga autorización del titular de los derechos, y a respetar las condiciones de las plataformas de las que obtenga contenido.
 - Queda prohibido usar el programa para infringir derechos de autor o para fines ilícitos.
