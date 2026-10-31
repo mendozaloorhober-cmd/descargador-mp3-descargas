@@ -1,6 +1,6 @@
 ```text
 AVISO LEGAL Y POLÍTICA DE PRIVACIDAD
-Descargador MP3 · versión 1.1.0
+Descargador MP3 · versión 1.2.0
 
 
 1. DATOS DE CONTACTO
@@ -18,6 +18,7 @@ Descargador MP3 es un programa de escritorio para convertir y guardar audio en f
 - El usuario se compromete a usar el programa únicamente con contenido propio, de dominio público o del que tenga autorización del titular de los derechos, y a respetar las condiciones de las plataformas de las que obtenga contenido.
 - Queda prohibido usar el programa para infringir derechos de autor o para fines ilícitos.
 - Está prohibido copiar, modificar, descompilar, desactivar el sistema de licencias, revender o redistribuir el programa sin autorización escrita del titular.
+- La licencia puede ser desactivada si se comparte, revende, se intenta vulnerar el sistema de licencias o se solicita un reembolso o contracargo del pago. Para verificarlo, el programa consulta periódicamente una lista pública de licencias desactivadas, que solo contiene huellas anónimas de los equipos.
 - El titular puede actualizar el programa y estas condiciones; la versión vigente es la incluida en cada versión del programa.
 
 
@@ -48,7 +49,7 @@ Las canciones y contenidos que el usuario descarga pertenecen a sus respectivos 
 - Las preferencias (carpeta, calidad, etc.) y el estado de la licencia se guardan solo en el propio equipo del usuario.
 - El "código de equipo" es un identificador anónimo calculado a partir del equipo; no contiene el nombre ni datos personales del usuario. Solo se comparte si el usuario decide enviarlo para comprar su licencia.
 - Si el usuario escribe por WhatsApp o correo, sus datos de contacto se usan únicamente para atender su compra y soporte, y no se ceden a terceros.
-- Para funcionar, el programa se conecta a los sitios de los que el usuario descarga contenido y a PyPI (pypi.org) para actualizar su motor de descargas. Esos servicios tienen sus propias políticas de privacidad.
+- Para funcionar, el programa se conecta a los sitios de los que el usuario descarga contenido, a PyPI (pypi.org) para actualizar su motor de descargas y a GitHub (github.com) para consultar la lista de licencias desactivadas. En esa consulta no se envía ningún dato del usuario. Esos servicios tienen sus propias políticas de privacidad.
 - El usuario puede pedir información o la eliminación de sus datos de contacto escribiendo a mendozaloorhober@gmail.com.
 - Los datos se tratan conforme a la Ley Orgánica de Protección de Datos Personales del Ecuador.
 

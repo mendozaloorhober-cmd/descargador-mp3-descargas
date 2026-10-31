@@ -1,0 +1,2 @@
+# Licencias desactivadas de Descargador MP3
+# Cada línea es una huella anónima de un equipo: no permite saber de quién es.
